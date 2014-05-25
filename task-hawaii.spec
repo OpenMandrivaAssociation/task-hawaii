@@ -17,11 +17,4 @@ Requires:	xkeyboard-config
 %description
 Hawaii desktop environment meta package
 
-%prep
-%setup -q
-
-%build
-
-%install
-
 %files
