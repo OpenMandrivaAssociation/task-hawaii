@@ -7,7 +7,7 @@ Group:		Graphical desktop/Other
 URL:		http://www.maui-project.org
 BuildArch:	noarch
 Requires:	hawaii-icon-themes >= %{version}
-Requires:	hawaii-wallapers >= %{version}
+Requires:	hawaii-wallpapers >= %{version}
 Requires:	hawaii-widget-styles >= %{version}
 Requires:	hawaii-shell >= %{version}
 Requires:	hawaii-terminal >= %{version}
