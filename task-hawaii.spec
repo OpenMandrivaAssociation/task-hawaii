@@ -15,6 +15,6 @@ Requires:	hawaii-system-preferences >= %{version}
 Requires:	xkeyboard-config
 
 %description
-Hawaii desktop environment meta package
+Hawaii desktop environment meta package.
 
 %files
