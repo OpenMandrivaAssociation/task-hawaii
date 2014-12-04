@@ -18,7 +18,8 @@ Requires:	qtaccountsservice
 Requires:	qtconfiguration
 Requires:	qtwayland
 Requires:	fluid
-Requires:	greenisland
+#Requires:	greenisland
+Requires:	desktop-common-data
 
 %description
 Hawaii desktop environment meta package.
