@@ -1,7 +1,7 @@
 Summary:	Hawaii desktop
 Name:		task-hawaii
 Version:	0.3.0
-Release:	2
+Release:	3
 License:	GPLv2+
 Group:		Graphical desktop/Other
 URL:		http://www.maui-project.org
