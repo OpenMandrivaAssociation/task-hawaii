@@ -17,7 +17,7 @@ Requires:	hawaii-eyesight >= 0.1.2
 Requires:	x11-data-xkbdata
 Requires:	qtaccountsservice
 Requires:	qtconfiguration
-Requires:	qtwayland
+#Requires:	qtwayland
 Requires:	fluid
 #Requires:	greenisland
 Requires:	desktop-common-data
