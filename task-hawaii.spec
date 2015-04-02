@@ -1,7 +1,7 @@
 Summary:	Hawaii desktop
 Name:		task-hawaii
-Version:	0.3.0
-Release:	5
+Version:	0.4.0
+Release:	1
 License:	GPLv2+
 Group:		Graphical desktop/Other
 URL:		http://www.maui-project.org
@@ -18,7 +18,6 @@ Requires:	x11-data-xkbdata
 Requires:	qtaccountsservice
 Requires:	qtconfiguration
 #Requires:	qtwayland
-Requires:	fluid
 #Requires:	greenisland
 Requires:	desktop-common-data
 
