@@ -13,7 +13,7 @@ Requires:	hawaii-shell >= %{version}
 Requires:	hawaii-workspace >= 0.5.0
 Requires:	hawaii-terminal >= 0.5.91
 Requires:	hawaii-system-preferences >= 0.5.0
-Requires:	hawaii-eyesight >= 0.1.4
+Requires:	eyesight >= 0.1.4
 Requires:	xkeyboard-config
 Requires:	x11-data-xkbdata
 Requires:	greenisland >= 0.7.1
