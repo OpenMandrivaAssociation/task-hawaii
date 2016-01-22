@@ -1,21 +1,22 @@
 Summary:	Hawaii desktop
 Name:		task-hawaii
-Version:	0.4.0
-Release:	2
+Version:	0.6.0
+Release:	1
 License:	GPLv2+
 Group:		Graphical desktop/Other
 URL:		https://hawaii-desktop.github.io
 BuildArch:	noarch
-Requires:	hawaii-icon-themes >= %{version}
-Requires:	hawaii-wallpapers >= %{version}
-Requires:	hawaii-widget-styles >= %{version}
+Requires:	hawaii-icon-themes >= 0.5.92
+Requires:	hawaii-wallpapers >= 0.4.0
+Requires:	hawaii-widget-styles >= 0.5.1
 Requires:	hawaii-shell >= %{version}
-Requires:	hawaii-terminal >= 0.2.0
-Requires:	hawaii-system-preferences >= %{version}
-Requires:	hawaii-eyesight >= 0.1.2
+Requires:	hawaii-workspace >= 0.5.0
+Requires:	hawaii-terminal >= 0.5.91
+Requires:	hawaii-system-preferences >= 0.5.0
+Requires:	hawaii-eyesight >= 0.1.4
 Requires:	xkeyboard-config
 Requires:	x11-data-xkbdata
-Requires:	greenisland >= 0.5.90
+Requires:	greenisland >= 0.7.1
 Requires:	desktop-common-data
 
 %description
