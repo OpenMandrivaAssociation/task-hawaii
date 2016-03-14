@@ -1,12 +1,12 @@
 Summary:	Hawaii desktop
 Name:		task-hawaii
 Version:	0.6.0
-Release:	1
+Release:	2
 License:	GPLv2+
 Group:		Graphical desktop/Other
 URL:		https://hawaii-desktop.github.io
 BuildArch:	noarch
-Requires:	hawaii-icon-themes >= 0.5.92
+Requires:	hawaii-icon-theme >= 0.5.92
 Requires:	hawaii-wallpapers >= 0.4.0
 Requires:	hawaii-widget-styles >= 0.5.1
 Requires:	hawaii-shell >= %{version}
